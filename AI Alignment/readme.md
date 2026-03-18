@@ -1,5 +1,5 @@
 # AI Alignment and RLHF Notes
-Modern language models are powerful, but capability alone is not enough. As these systems are deployed more widely, an important question arises: **how do we build models that behave in ways that are helpful, safe, and aligned with human intentions and values?** This broad challenge is often referred to as **AI alignment**. Researchers across machine learning, HCI, safety, and ethics are actively studying it, including in venues such as the BiAlign workshop, which focuses on human–AI alignment and value-centered AI design. Recent workshop descriptions explicitly highlight themes such as reinforcement learning, human feedback, value specification, human-in-the-loop methods, and scalable post-training alignment. 
+Modern language models are powerful, but capability alone is not enough. As these systems are deployed more widely, an important question arises: **how do we build models that behave in ways that are helpful, safe, and aligned with human intentions and values?** This broad challenge is often referred to as **AI alignment**. Researchers across machine learning, HCI, safety, and ethics are actively studying it, including in venues such as the **[BiAlign workshop](https://bialign-workshop.github.io/2026)**, which focuses on human–AI alignment and value-centered AI design. Recent workshop descriptions explicitly highlight themes such as reinforcement learning, human feedback, value specification, human-in-the-loop methods, and scalable post-training alignment. 
 
 One important direction in this space is **Reinforcement Learning from Human Feedback (RLHF)**. In RLHF, human preferences are used to train or guide models toward outputs that better match what people want. This usually involves learning from preference data, building reward models, and then optimising a policy with reinforcement learning. We discuss method like Gradient Policy algorithms like **[REINFORCE](https://cs229.stanford.edu/notes2020fall/notes2020fall/cs229-notes14.pdf)** and **Off-Policy Learning** and  **Proximal Policy Optimization ([Schulman et al., 2017](https://arxiv.org/abs/1707.06347))**  More recently, related methods such as **Direct Preference Optimisation (DPO) ([Rafailov et al., 2023](https://arxiv.org/abs/2305.18290))**  have become important alternatives that aim to align models with human preferences more directly. 
 
@@ -35,6 +35,3 @@ I use this space to collect and organise concepts I find interesting while study
 
 These are personal learning notes meant to make advanced topics in alignment and reinforcement learning easier to follow.
 
-## Related links
-
-- BiAlign workshop: [https://bialign-workshop.github.io/2026](https://bialign-workshop.github.io/2026)

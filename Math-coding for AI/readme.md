@@ -24,4 +24,4 @@
 ```bash
 pip install torch torchvision matplotlib numpy networkx
 ```
-> Authorship Note: Written by Satya Krishna Pothapragada. Reviewed and corrected with Claude 4.6 Sonnet (Anthropic), which also contributed the visualisation modules at Sections 2.7,§3.6, 4.2, 5.7, and 6.10.
+> Authorship Note: Written by Satya Krishna Pothapragada. Reviewed and corrected with Claude 4.6 Sonnet (Anthropic), which also contributed the visualisation modules at Sections 2.7,3.6, 4.2, 5.7, and 6.10.

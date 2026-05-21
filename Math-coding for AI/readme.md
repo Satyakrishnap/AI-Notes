@@ -23,5 +23,5 @@
 
 ```bash
 pip install torch torchvision matplotlib numpy networkx
-
+```
 > Authorship Note: Written by Satya Krishna Pothapragada. Reviewed and corrected with Claude (Anthropic), which also contributed the visualisation modules at §2.7, §3.6, §4.2, §5.7, and §6.10.

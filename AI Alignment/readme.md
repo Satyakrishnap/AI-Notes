@@ -35,3 +35,4 @@ I use this space to collect and organise concepts I find interesting while study
 
 These are personal learning notes meant to make advanced topics in alignment and reinforcement learning easier to follow.
 
+>Authorship Notes: This is a handwritten notes made from scratch by Satya Krishna Pothapragada. No AI used at all. 
